@@ -1,2 +1,2 @@
 # network-engineer-portfolio
-Professional network engineering labs and projects.
+Enterprise-grade labs and projects — my journey as a network engineer
