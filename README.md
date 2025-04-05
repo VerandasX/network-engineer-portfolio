@@ -9,8 +9,7 @@
 
 ## 🚀 About Me
 
-I’m a **future Network Engineer** who’s passionate about creating efficient, secure, and scalable network infrastructures. My journey has been about **practical learning** — from simulating enterprise-level networks to configuring real-world solutions with top vendors like **Cisco**, **MikroTik**, and **Huawei**.
-
+I specialize in designing and securing scalable networks using **Cisco**, **MikroTik**, and **Huawei** technologies. This portfolio showcases enterprise-grade solutions built through rigorous simulations.”
 This portfolio reflects my hands-on experience with a wide range of networking technologies and my ability to implement complex solutions in both **small businesses** and **enterprise environments**.
 
 I am continuously learning and growing, currently pursuing **CCNA** certification, and aiming to expand my expertise into **network security** and **automation**.
