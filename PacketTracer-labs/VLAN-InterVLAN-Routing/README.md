@@ -28,7 +28,7 @@ This is a simple lab to show how to use VLANs and router-on-a-stick to allow dev
 
 ---
 Result:
-![VLAN brief](./vlanbrief.png)
-![VLAN trunk](./trunk.png)
-![VLAN result](./result.png)
-![VLAN ping](./ping.png)
+![VLAN brief](assets/vlanbrief.png)
+![VLAN trunk](assets/trunk.png)
+![VLAN result](assets/result.png)
+![VLAN ping](assets/ping.png)
