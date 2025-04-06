@@ -32,3 +32,8 @@ Result:
 ![VLAN trunk](assets/trunk.png)
 ![VLAN result](assets/result.png)
 ![VLAN ping](assets/ping.png)
+
+
+![image](https://github.com/user-attachments/assets/27231b78-b86d-4da0-95db-d4f52902cade)
+
+
