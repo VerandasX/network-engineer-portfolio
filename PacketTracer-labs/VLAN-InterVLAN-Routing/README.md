@@ -13,6 +13,7 @@ This is a simple lab to show how to use VLANs and router-on-a-stick to allow dev
 ---
 
 ## 🧱 Topology
+![VLAN Topology](./topology.png)
 
 - **Router:** Cisco 2911 (R1)
 - **Switch:** Cisco 2960-24TT (SW-1)
@@ -27,4 +28,4 @@ This is a simple lab to show how to use VLANs and router-on-a-stick to allow dev
 
 ---
 Result:
-![VLAN Topology](./topology.png)
+![VLAN Topology](./result.png)
