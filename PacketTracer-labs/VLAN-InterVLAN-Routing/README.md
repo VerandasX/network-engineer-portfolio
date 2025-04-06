@@ -28,9 +28,10 @@ This is a simple lab to show how to use VLANs and router-on-a-stick to allow dev
 
 ---
 Result
-
 SW-1#show vlan brief
 ![VLAN brief](assets/vlanbrief.jpg)
+
+
 
 SW-1#show interfaces trunk
 ![VLAN trunk](assets/trunk.jpg)
