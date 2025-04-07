@@ -27,5 +27,18 @@ This is a simple lab to show how to use VLANs and router-on-a-stick to allow dev
 | PC3    | 20   | 192.168.20.4    | 192.168.20.1      |
 
 ---
-Result:
-![VLAN Topology](./result.png)
+Result
+SW-1#show vlan brief
+![VLAN brief](assets/vlanbrief.jpg)
+
+
+
+SW-1#show interfaces trunk
+![VLAN trunk](assets/trunk.jpg)
+
+result between two PCs in dif vlan
+![VLAN result](assets/result.png)
+
+checking ping
+![VLAN ping](assets/ping.jpg)
+
