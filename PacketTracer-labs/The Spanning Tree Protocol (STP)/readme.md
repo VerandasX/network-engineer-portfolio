@@ -11,16 +11,17 @@ The network consists of **two PCs** (PC1 and PC2) and **three switches** (SW1, S
 ![Topology Diagram](./topology.png)
 
 SW1# show spanning-tree vlan 10
-
+![sw1](assets/sw-1.png)
 
 SW2# show spanning-tree vlan 10
-
+![sw2](assets/sw-2.png)
 
 SW3# show spanning-tree vlan 10
-
+![sw3](assets/sw-3.png)
 
 
 🌐 Ping Test
 Once the STP configuration is complete, a ping test is conducted to ensure connectivity between the devices connected to the switches:
 PC1 (SW1) to PC2 (SW3):
-ping 192.168.20.10
+ping 192.168.10.2
+![sw3](assets/ping.png)
