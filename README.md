@@ -76,7 +76,7 @@ I also focus on **clear documentation** to ensure my designs can be easily under
 
 ## 📬 Let’s Connect!
 
-- [LinkedIn](https://linkedin.com/in/yourname)
+- [LinkedIn](https://www.linkedin.com/in/shohrukh-khodjimetov-18831833b/)
 - [GitHub Profile](https://github.com/VerandasX)
 - [Email](mailto:verandaonit@gmail.com)
 
